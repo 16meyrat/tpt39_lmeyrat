@@ -1,0 +1,2 @@
+This is the standard video filtering project for FPGA. Compile if exactly as the fpga version of vector_add.
+The simulation is working, but incredibly slow (~0.2fps). Compilation on real fpga should work, but is untested
